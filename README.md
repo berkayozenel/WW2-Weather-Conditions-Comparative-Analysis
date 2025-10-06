@@ -14,7 +14,7 @@ This study compares the performance of three different regularized regression mo
 * **Ridge Regression**
 * **Lasso Regression**
 * **ElasticNet Regression**
----
+----
 ### 🔗 Detailed Analysis and Visualizations
 For all code steps, visualizations, and detailed model conclusions of this project, please refer to my Kaggle notebook:
 [**Kaggle Notebook Link**](https://www.kaggle.com/code/berkayozenel/ww2-weather-conditions-comparative-analysis)
